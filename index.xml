@@ -30,18 +30,11 @@
       <description>&lt;h1 id=&#34;pi-multiple&#34;&gt;&#xA;  PI Multiple&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#pi-multiple&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;div id=&#34;btc-pi-multiple&#34;/&gt;&#xA; &lt;script src=&#34;https://bitquant.cloud/charts/btc-pi-multiple.js&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
-      <title>Bitcoin Proxies</title>
-      <link>https://bitquant.cloud/docs/btc/proxies/</link>
-      <pubDate>Fri, 14 Feb 2025 11:00:46 -0800</pubDate>
-      <guid>https://bitquant.cloud/docs/btc/proxies/</guid>
-      <description>&lt;h1 id=&#34;bitcoin-proxies&#34;&gt;&#xA;  Bitcoin Proxies&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#bitcoin-proxies&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
-    </item>
-    <item>
       <title>Bitcoin Miners</title>
       <link>https://bitquant.cloud/docs/btc/miners/</link>
       <pubDate>Fri, 14 Feb 2025 11:00:46 -0800</pubDate>
       <guid>https://bitquant.cloud/docs/btc/miners/</guid>
-      <description>&lt;h1 id=&#34;bitcoin-miners&#34;&gt;&#xA;  Bitcoin Miners&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#bitcoin-miners&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;bitcoin-miners&#34;&gt;&#xA;  Bitcoin Miners&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#bitcoin-miners&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;div id=&#34;wgmi-channel&#34;/&gt;&#xA; &lt;script src=&#34;https://bitquant.cloud/charts/wgmi-channel.js&#34;&gt;&lt;/script&gt;%&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
