@@ -2,14 +2,14 @@
 var chartDiv = document.getElementById('chart1');
 var layout = {
     xaxis: {
-    title: "Date",
+    title: "",
 },
     yaxis: {
-    title: "Price",
+    title: "",
 },
     width: 750,
     height: 400,
-    title: "Bitcoin",
+    title: "foo",
 };
 var data = [ {
     xaxis: "x",
