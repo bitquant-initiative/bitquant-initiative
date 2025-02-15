@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitcoin on BitQuant Initiative</title>
+    <link>https://bitquant.cloud/docs/btc/</link>
+    <description>Recent content in Bitcoin on BitQuant Initiative</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2025 11:00:46 -0800</lastBuildDate>
+    <atom:link href="https://bitquant.cloud/docs/btc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power Law</title>
+      <link>https://bitquant.cloud/docs/btc/power-law/</link>
+      <pubDate>Fri, 14 Feb 2025 11:00:46 -0800</pubDate>
+      <guid>https://bitquant.cloud/docs/btc/power-law/</guid>
+      <description>&lt;h1 id=&#34;power-law&#34;&gt;&#xA;  Power Law&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#power-law&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>MVRV Z-Score</title>
+      <link>https://bitquant.cloud/docs/btc/mvrvz/</link>
+      <pubDate>Fri, 14 Feb 2025 11:00:46 -0800</pubDate>
+      <guid>https://bitquant.cloud/docs/btc/mvrvz/</guid>
+      <description>&lt;h1 id=&#34;mvrv-z-score&#34;&gt;&#xA;  MVRV Z-Score&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mvrv-z-score&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>PI Multiple</title>
+      <link>https://bitquant.cloud/docs/btc/pi-multiple/</link>
+      <pubDate>Fri, 14 Feb 2025 11:00:46 -0800</pubDate>
+      <guid>https://bitquant.cloud/docs/btc/pi-multiple/</guid>
+      <description>&lt;h1 id=&#34;pi-multiple&#34;&gt;&#xA;  PI Multiple&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#pi-multiple&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Bitcoin Proxies</title>
+      <link>https://bitquant.cloud/docs/btc/proxies/</link>
+      <pubDate>Fri, 14 Feb 2025 11:00:46 -0800</pubDate>
+      <guid>https://bitquant.cloud/docs/btc/proxies/</guid>
+      <description>&lt;h1 id=&#34;bitcoin-proxies&#34;&gt;&#xA;  Bitcoin Proxies&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#bitcoin-proxies&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Bitcoin Miners</title>
+      <link>https://bitquant.cloud/docs/btc/miners/</link>
+      <pubDate>Fri, 14 Feb 2025 11:00:46 -0800</pubDate>
+      <guid>https://bitquant.cloud/docs/btc/miners/</guid>
+      <description>&lt;h1 id=&#34;bitcoin-miners&#34;&gt;&#xA;  Bitcoin Miners&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#bitcoin-miners&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,3 +1,0 @@
-# bitquant-initiative
-
-another
