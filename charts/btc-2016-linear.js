@@ -6,7 +6,7 @@ var btc_2016_linear_layout = {
     yaxis: {
     title: "Bitcoin Price (USD)",
 },
-    title: "Bitcoin Price",
+    title: "Bitcoin Price USD - 2016-Present (Linear Scale)",
 };
 var btc_2016_linear_data = [ {
     xaxis: "x",

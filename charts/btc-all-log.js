@@ -7,7 +7,7 @@ var btc_all_log_layout = {
     title: "Bitcoin Price (USD)",
     type: "log",
 },
-    title: "Bitcoin Price",
+    title: "Bitcoin Price USD - 2009-Present (Log Scale)",
 };
 var btc_all_log_data = [ {
     xaxis: "x",
