@@ -2,10 +2,10 @@
 var chartDiv = document.getElementById('chart1');
 var layout = {
     xaxis: {
-    title: "",
+    title: "Date",
 },
     yaxis: {
-    title: "",
+    title: "Price",
 },
     width: 750,
     height: 400,
