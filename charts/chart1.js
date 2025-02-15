@@ -9,7 +9,7 @@ var layout = {
 },
     width: 750,
     height: 400,
-    title: "foo",
+    title: "Bitcoin",
 };
 var data = [ {
     xaxis: "x",
